@@ -17,6 +17,7 @@
     - [Setup](#setup)
     - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -37,6 +38,7 @@ In this project I learn about how to implement classes and objects in Ruby and e
 - **unit tests using Rspec**
 - **Rspec unit tests with mocks**
 - **TDD concept**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,6 +94,11 @@ Run tests with:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rohitbhatt-dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+In the future, I would like to add the following features:
+- Add more tests for edge cases
+- Add more functions to test.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
