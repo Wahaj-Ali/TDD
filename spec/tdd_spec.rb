@@ -11,6 +11,15 @@ describe Solver do
       factorial = solver.factorial(number)
       expect(factorial).to eql 120
     end
+
+    it 'it should return 1 if the input is zero' do
+      factorial = solver.factorial(0)
+      expect(factorial).to eql 1
+    end
+
+    it 'should return an error if the given number is negative' do
+      expect { solver.factorial(-2) }.to raise_error('Number is less than zero. Enter a positive number')
+    end
   end
 
   context 'Test the solver class fizzbuzz method' do

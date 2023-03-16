@@ -1,6 +1,7 @@
 # Solver class with factorial, revere and fizzbuzz methods.
 class Solver
   def factorial(number)
+    raise 'Number is less than zero. Enter a positive number' if number.negative?
     return 1 if number.zero?
 
     start = 1
