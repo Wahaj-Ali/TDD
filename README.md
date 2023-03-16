@@ -67,7 +67,14 @@ Clone this [repository](https://github.com/Wahaj-Ali/TDD) to your desired folder
 
 👤 **Wahaj Ali**
 - GitHub: [@Wahaj-Ali](https://github.com/Wahaj-Ali)
+- Twitter: [@Ali96Wahaj](https://twitter.com/Ali96Wahaj)
 - LinkedIn: [@wahaj-ali96](https://www.linkedin.com/in/wahaj-ali96/)
+
+👤 **Rohit Bhatt**
+
+- GitHub: [@rbhatt1999](https://github.com/rbhatt1999)
+- Twitter: [@Rohit_Bhatt_](https://twitter.com/Rohit_Bhatt_)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rohitbhatt-dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
