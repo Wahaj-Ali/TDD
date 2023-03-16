@@ -61,7 +61,7 @@ Clone this [repository](https://github.com/Wahaj-Ali/TDD) to your desired folder
 ```sh
   cd my-folder
   git clone https://github.com/Wahaj-Ali/TDD.git
-  cd Enumerable
+  cd TDD
 ```
 - Run `bundle install` or `bundle i` to install the gems
 - Run `irb` to run the code by pasting it in the terminal.
