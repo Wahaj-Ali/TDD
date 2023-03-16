@@ -13,7 +13,9 @@
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started with database ](#-getting-started-with-database-)
+    - [Prerequisites](#prerequisites)
     - [Setup](#setup)
+    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -47,6 +49,11 @@ In this project I learn about how to implement classes and objects in Ruby and e
 
 ## 💻 Getting Started with database <a name="getting-started"></a>
 
+### Prerequisites
+In order to run this project you need:
+1. Ruby installed on your machine
+2. Text editor (VSCode, Sublime, Atom, etc.)
+
 ### Setup
 
 Clone this [repository](https://github.com/Wahaj-Ali/TDD) to your desired folder:
@@ -59,6 +66,13 @@ Clone this [repository](https://github.com/Wahaj-Ali/TDD) to your desired folder
 - Run `bundle install` or `bundle i` to install the gems
 - Run `irb` to run the code by pasting it in the terminal.
 - Run `rubocop` to find and fix linters
+
+### Run tests
+Run tests with:
+```sh
+  rspec
+  rubocop
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
