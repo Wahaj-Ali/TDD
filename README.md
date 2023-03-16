@@ -52,7 +52,8 @@ In this project I learn about how to implement classes and objects in Ruby and e
 ### Prerequisites
 In order to run this project you need:
 1. Ruby installed on your machine
-2. Text editor (VSCode, Sublime, Atom, etc.)
+2. RSpec installed globally to run the tests. Here is a [tutorial](https://www.tutorialspoint.com/rspec/rspec_quick_guide.htm) about how RSpec.
+3. Text editor (VSCode, Sublime, Atom, etc.)
 
 ### Setup
 
