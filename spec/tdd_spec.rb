@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative '../tdd'
 
 describe Solver do
@@ -34,7 +32,7 @@ describe Solver do
 
   context 'Test the reverse method of the Solver class' do
     it 'it should return the reverse of the string passed as an argument' do
-      reverse  = solver.reverse(word)
+      reverse = solver.reverse(word)
       expect(reverse).to eql 'nepo'
     end
   end
