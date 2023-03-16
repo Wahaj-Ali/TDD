@@ -37,6 +37,11 @@ describe Solver do
       string = solver.fizzbuzz(7)
       expect(string).to eql '7'
     end
+
+    it 'should return fizzbuzz if 15 is passed as number' do
+      string = solver.fizzbuzz(15)
+      expect(string).to eql 'fizzbuzz'
+    end
   end
 
   context 'Test the reverse method of the Solver class' do
